@@ -36,9 +36,3 @@ A Java-based web application that helps users navigate efficiently through the u
 3. The app sends these coordinates to the Java backend.
 4. Dijkstra's algorithm computes the shortest path.
 5. The path is shown in both **text** and **visual format** on the map.
-
-## 📦 Project Setup
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/JustAnoobCat/Smart-Campus-Navigator.git
