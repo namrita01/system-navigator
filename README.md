@@ -2,14 +2,6 @@
 
 A Java-based web application that helps users navigate efficiently through the university campus by providing the shortest path between locations. Designed to assist students, faculty, and visitors in locating classrooms, labs, offices, and facilities.
 
-👨‍💻 **Team Members**:  
-- [Aarush Mandoliya](https://github.com/JustAnoobCat)  
-- [Mansi](https://github.com/blackhat289) 
-- [Diksha](https://github.com/Diksha940)
-- [Karan Singh Chauhan](https://github.com/karan-0007)  
-
----
-
 ## 🚀 Features
 
 - 🗺️ Interactive campus map
