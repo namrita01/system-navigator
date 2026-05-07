@@ -1,0 +1,15 @@
+# Maven build output
+/target/
+
+# VS Code settings and workspace metadata
+/.vscode/
+
+# Temporary files
+/temp.txt
+/frontend/*.txt
+
+# OS files
+.DS_Store
+
+# Java class output
+*.class
